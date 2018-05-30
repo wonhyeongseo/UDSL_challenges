@@ -1,8 +1,5 @@
 # v0.0.1
 
-def code_logger():
-    pass
-
 def sort_by_word_length_xor(*t):
     """
     Get an iterable full of strings.
